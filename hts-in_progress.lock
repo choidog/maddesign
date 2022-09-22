@@ -1,0 +1,7 @@
+Mirror in progress since Thu, 22 Sep 2022 13:18:08 .. please wait!
+winhttrack https://www.yasaminjtehrani.com/ -O "maddesign/maddesign" -Y -%v 
+To pause the engine: create an empty file named 'hts-stop.lock'
+PID=62448
+UID=501
+GID=501
+START=1663874288

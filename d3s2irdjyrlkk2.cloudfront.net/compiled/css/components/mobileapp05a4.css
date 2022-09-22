@@ -1,0 +1,471 @@
+html {
+  box-sizing: border-box;
+}
+
+*, *::after, *::before {
+  box-sizing: inherit;
+}
+
+#cover_mobileapp {
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: auto;
+  overflow: hidden;
+  z-index: 1052;
+}
+
+#cover_mobileapp .cover-banner-wrapper {
+  max-width: 90%;
+  min-width: 50%;
+  max-height: 90%;
+  overflow: auto;
+  position: relative;
+  margin: auto;
+  z-index: 2;
+  padding: 50px 0;
+}
+
+#cover_mobileapp .cover-banner-wrapper img {
+  max-width: 100%;
+  vertical-align: middle;
+}
+
+#cover_mobileapp .cover-banner-wrapper .cover-banner-event-date {
+  display: block;
+  font-size: 12px;
+  font-family: 'Open Sans', sans-serif;
+  letter-spacing: 0.04em;
+  margin-bottom: 1em;
+}
+
+#cover_mobileapp .cover-banner-wrapper .cover-banner-event-date.color {
+  color: #fff;
+}
+
+#cover_mobileapp .cover-banner-wrapper .cover-banner-name {
+  display: inline-block;
+  margin: 0px;
+  font-size: 25px;
+  width: 100%;
+}
+
+#cover_mobileapp .cover-banner-wrapper .cover-banner-name.color {
+  color: #fff;
+}
+
+#cover_mobileapp .cover-banner-wrapper .cover-banner-button {
+  font-size: 30px;
+  font-family: 'Open Sans', sans-serif;
+  text-transform: uppercase;
+  display: inline-block;
+}
+
+#cover_mobileapp .cover-banner-wrapper .cover-banner-button a {
+  color: #fff;
+  display: inline-block;
+  transition: all 0.25s ease-in-out;
+  letter-spacing: 0.1em;
+  font-weight: 600;
+  fill: #fff;
+}
+
+#cover_mobileapp .cover-banner-wrapper .cover-banner-button a svg {
+  fill: #fff;
+}
+
+#cover_mobileapp .cover-banner-wrapper .cover-banner-button a svg path {
+  fill: #fff;
+}
+
+#cover_mobileapp.cover-mobileapp-height .cover-banner-wrapper {
+  padding: 0;
+  top: 50%;
+  transform: translateY(-50.1%);
+}
+
+#cover_mobileapp.cover-mobileapp-height .cover-banner-name {
+  margin: 0px 0 1em;
+}
+
+#cover_mobileapp.cover-mobileapp-height .cover_mobileapp_item:after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.2);
+}
+
+.mobileapp-bg-wrapper {
+  background: #f6f6f6;
+  height: 100vh;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  z-index: 9999;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.mobileapp-bg-wrapper.mobileapp-bg-wrapper-hide {
+  display: none;
+}
+
+.mobileapp-bg-wrapper .homescreen-body-center {
+  position: relative;
+}
+
+.mobileapp-bg-wrapper .app-logo-center {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  right: 0;
+  transform: translateY(-50.1%);
+}
+
+.mobileapp-bg-wrapper .mobileapp-logo {
+  width: 120px;
+  height: 120px;
+  margin: 0 auto;
+  overflow: hidden;
+  border-radius: 15px;
+}
+
+.mobileapp-bg-wrapper .mobileapp-logo img {
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+  max-width: 100%;
+  vertical-align: middle;
+}
+
+.mobileapp-bg-wrapper .site-title {
+  font-size: 14px;
+  padding-top: 2em;
+  text-transform: uppercase;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+}
+
+.mobileapp-bg-wrapper .app-name {
+  font-size: 18px;
+  margin-top: 1em;
+}
+
+.mobileapp-browser {
+  display: inline-block;
+  position: relative;
+  margin: 10px 0;
+}
+
+.mobileapp-browser .urllink {
+  display: none;
+}
+
+.mobileapp-browser .success {
+  font-size: 10px;
+  display: none;
+  letter-spacing: .05em;
+  text-transform: uppercase;
+  color: #fff;
+  background: #afafaf;
+  border-radius: 4px;
+  padding: 4px 6px 2px;
+  position: absolute;
+  right: 0;
+  left: 0;
+  margin: 7px auto 0;
+  width: 60px;
+}
+
+.mobileapp-browser .success:before {
+  content: "\F00C";
+  font-family: "Font Awesome 5 Pro";
+  position: absolute;
+  top: -16px;
+  left: 0;
+  right: 0;
+  color: #afafaf;
+  font-size: 26px;
+  line-height: 1;
+}
+
+.mobileapp-browser .linkslug-button {
+  border-radius: 3px;
+  padding: 10px 11px;
+  line-height: 1.2;
+  font-weight: 600;
+  background: #e6e6e6;
+  font-size: 11px;
+  display: inline-block;
+  letter-spacing: 0.04em;
+  outline: none;
+}
+
+.share-options-overlay.mobileapp-share-options-overlay {
+  height: calc(100% - 50px);
+}
+
+.share-options-modal.mobileapp-share-options-modal {
+  left: 0;
+  width: 100%;
+  top: inherit;
+  transform: none;
+  bottom: 50px;
+  border: 0px;
+  border-bottom: 1px solid rgba(151, 151, 151, 0.2);
+  border-radius: 0;
+}
+
+.share-options-modal.mobileapp-share-options-modal .url-anchor-share {
+  padding: 12px 30px;
+}
+
+.share-options-modal.mobileapp-share-options-modal .share-option-container {
+  border: 0;
+}
+
+.share-options-modal.mobileapp-height {
+  height: 100%;
+  overflow: auto;
+  bottom: 0;
+}
+
+.mobileapp-profile-content {
+  font-size: 14px;
+  font-family: 'Open Sans', sans-serif;
+  max-width: 80%;
+  margin: 0 auto;
+  line-height: 1.8em;
+  color: #636363;
+  fill: #636363;
+  padding: 0;
+}
+
+.mobileapp-profile-content a {
+  color: #636363;
+  fill: #636363;
+}
+
+.mobileapp-profile-content .share-close-app {
+  font-size: 20px;
+  position: fixed;
+  top: 10px;
+  color: #ccc;
+  fill: #ccc;
+  right: 15px;
+}
+
+.mobileapp-profile-content .share-close-app .menu-svg-icon svg {
+  fill: #636363;
+}
+
+.mobileapp-profile-content .site-logo {
+  width: 100%;
+  text-align: center;
+  margin: 4em 0 3em;
+}
+
+.mobileapp-profile-content .site-logo img {
+  max-width: 80%;
+}
+
+.mobileapp-profile-content .site-logo h1 {
+  font-size: 18px;
+}
+
+.mobileapp-profile-content .page-title {
+  font-size: 16px;
+  padding-top: 2em;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+
+.mobileapp-profile-content .content-wrapper {
+  width: 100%;
+  display: inline-block;
+  margin-bottom: 2em;
+}
+
+.mobileapp-profile-content .gravatar-img {
+  margin-bottom: 1.5em;
+  display: inline-block;
+  vertical-align: middle;
+  border-radius: 50px;
+  overflow: hidden;
+}
+
+.mobileapp-profile-content .gravatar-img.gravatar-icons {
+  font-size: 50px;
+  border: 1px solid #ccc;
+  padding: 25px;
+  fill: #ccc;
+}
+
+.mobileapp-profile-content .gravatar-img img {
+  vertical-align: middle;
+  width: 80px;
+  height: 80px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.mobileapp-profile-content .user-profile {
+  position: fixed;
+  bottom: 0;
+  display: inline-block;
+  width: 100%;
+  left: 0;
+  z-index: 999;
+  border-top: 1px solid #f2f2f2;
+}
+
+.mobileapp-profile-content .user-profile ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: table;
+  width: 100%;
+}
+
+.mobileapp-profile-content .user-profile ul li {
+  padding: 1.08em;
+  display: table-cell;
+  width: 33%;
+  background: #fff;
+  text-align: center;
+  font-size: 12px;
+  border-right: 1px solid #f2f2f2;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+}
+
+.mobileapp-profile-content .user-profile ul li:last-child {
+  border-right: 0;
+}
+
+.mobileapp-profile-content .social-media-container {
+  text-align: center;
+  margin-bottom: 3em;
+  width: 100%;
+  padding-top: 2em;
+}
+
+.mobileapp-profile-content .social-media-container .socila-media-icons a {
+  display: inline-block;
+  margin-right: 25px;
+  font-size: 20px;
+}
+
+.mobileapp-profile-content .social-media-container .socila-media-icons a svg {
+  fill: #636363;
+}
+
+.mobileapp-profile-content .social-media-container .socila-media-icons a:last-child {
+  margin-right: 0;
+}
+
+.mobileapp-profile-content .social-media-container.pixpa {
+  border-top: 1px solid #efefef;
+  font-size: 11px;
+  letter-spacing: 0.04em;
+  margin-bottom: 95px;
+}
+
+.proofing-header-spacing.mobileapp-header .user-links {
+  padding: 0 !important;
+}
+
+.proofing-header-spacing.mobileapp-header .user-links .nav-list .proofing-options {
+  display: table;
+  width: 100%;
+}
+
+.proofing-header-spacing.mobileapp-header .user-links .nav-list .proofing-options .clients-icon {
+  padding: 1.42em 0.5em;
+  display: table-cell;
+  text-align: center;
+  font-size: 12px;
+  border-right: 1px solid #f2f2f2;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  margin: 0;
+  cursor: pointer;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.proofing-header-spacing.mobileapp-header .user-links .nav-list .proofing-options .clients-icon.clients-icon-form {
+  width: 50%;
+}
+
+.proofing-header-spacing.mobileapp-header .user-links .nav-list .proofing-options .clients-icon:last-child {
+  border-right: 0;
+}
+
+.proofing-header-spacing.mobileapp-header .user-links .nav-list .proofing-options .clients-icon a {
+  font-size: 12px;
+  padding: 0 0.8em;
+  color: #636363;
+}
+
+.proofing-header-spacing.mobileapp-header .user-links .nav-list .proofing-options .clients-icon.active a {
+  color: #000;
+}
+
+.visit-Website {
+  display: inline-block;
+  margin: 2em auto 5em;
+  width: 100%;
+  text-align: center;
+}
+
+.mobileapp-sharehide #lg-share {
+  display: none;
+}
+
+.mobileapp-sharehide .lg-toolbar-option {
+  display: none;
+}
+
+.mobileapp-contact-form .contact-form {
+  margin: 0 0 2em;
+}
+
+.mobileapp-contact-form input[type="text"], .mobileapp-contact-form input[type="email"], .mobileapp-contact-form textarea {
+  display: table-cell;
+  border: 1px solid rgba(204, 204, 204, 0.4);
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.mobileapp-contact-form input[type="text"]::-webkit-input-placeholder, .mobileapp-contact-form input[type="email"]::-webkit-input-placeholder, .mobileapp-contact-form textarea::-webkit-input-placeholder {
+  font-weight: 400;
+  opacity: 0.8;
+  font-size: 12px;
+}
+
+.mobileapp-contact-form textarea {
+  height: 110px;
+  min-height: 110px;
+  max-height: 110px;
+}
+
+.mobileapp-contact-form .custom-button {
+  width: 50%;
+  padding: 15px;
+  font-weight: 600;
+  font-size: 14px;
+  text-transform: uppercase;
+  margin: 10px auto 0;
+  display: block;
+}
+
+.app-desc {
+  line-height: 1.8em;
+  padding: 4em 2em;
+}
