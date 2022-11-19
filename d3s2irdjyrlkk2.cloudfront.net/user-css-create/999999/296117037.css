@@ -3,7 +3,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .wysiwyg-editor h1, .pixpa-heading-content h1, .is-wrapper h1, .u29611-heading-text, .u29611-heading1-text, .list-title-heading h1, .u29611-welcomeheading1-text{
-  font-family: Josefin Sans, sans-serif;
+  font-family: Montserrat, sans-serif;
   color: #7f7f7f;
   font-size: 60px;
   font-weight: 400;
@@ -13,7 +13,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .wysiwyg-editor h2, .pixpa-heading-content h2, .u29611-primary-mobile-bg, .u29611-primary-text, .u29611-byline-text, .u29611-heading2-text, .list-title-heading h2, .u29611-welcomeheading2-text{
-  font-family: Josefin Sans, sans-serif;
+  font-family: Montserrat, sans-serif;
   color: #333333;
   font-size: 45px;
   font-weight: 400;
@@ -23,7 +23,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .wysiwyg-editor h3, .pixpa-heading-content h3, .u29611-heading3-text, .list-title-heading h3 {
-  font-family: Josefin Sans, sans-serif;
+  font-family: Montserrat, sans-serif;
   color: #515151;
   fill: #515151;
   font-size: 30px;
@@ -34,7 +34,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .wysiwyg-editor h4, .pixpa-heading-content h4, .u29611-heading4-text, .list-title-heading h4 {
-  font-family: Josefin Sans, sans-serif;
+  font-family: Montserrat, sans-serif;
   color: #474747;
   fill: #474747;
   font-size: 18px;
@@ -49,7 +49,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .wysiwyg-editor h5, .pixpa-heading-content h5 {
-  font-family: Josefin Sans, sans-serif;
+  font-family: Montserrat, sans-serif;
   color: #333333;
   fill: #333333;
   font-size: 22.5px;
@@ -58,7 +58,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .wysiwyg-editor h6, .pixpa-heading-content h6 {
-  font-family: Josefin Sans, sans-serif;
+  font-family: Montserrat, sans-serif;
   color: #515151;
   fill: #515151
   border-color: #515151;
@@ -96,7 +96,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .wysiwyg-editor blockquote, #contentarea blockquote, .is-wrapper blockquote {
-  font-family: Josefin Sans, sans-serif;
+  font-family: Montserrat, sans-serif;
   color: #515151;
   font-size: 30px;
   border-color: #515151;
@@ -115,7 +115,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .is-wrapper h1, #contentarea h1, #contentarea h4:not(.is-wrapper .is-section-imagelist h1 a, .is-wrapper .is-section-imagelist h1 a:hover){
   color: #7f7f7f;
-  font-family: Josefin Sans, sans-serif;
+  font-family: Montserrat, sans-serif;
   font-weight: 400;
   line-height: 1.4em;
   letter-spacing: 0em;
@@ -124,14 +124,14 @@ h1, h2, h3, h4, h5, h6 {
 #contentarea  h1 span, #contentarea  h1 p, #contentarea  h4 span, #contentarea  h4 p,
 #contentarea  h1 a, #contentarea  h1 span a, #contentarea  h1 p a:not(.u29611-secondary-text), 
 #contentarea  h4 a, #contentarea  h4 span a, #contentarea  h4 p a, .is-wrapper h1 span, .is-wrapper h1 p:not(.u29611-secondary-text), .is-wrapper h1 a:not(.u29611-secondary-text, .pxp-block-content, .is-global-btn, .is-global-link, .items-image a, .grid-list-social a, .insta-overlay-bg a, .pxp-block-content a.is-global-btn-outline, .text-button a.is-global-btn-outline, .group_navigation a, a.is-global-btn-medium, a.is-global-btn-small, a.is-global-btn-large, .faqs-grid-container .title a), .is-wrapper h1 span a, .is-wrapper h1 p a{
-  font-family: Josefin Sans, sans-serif;
+  font-family: Montserrat, sans-serif;
   font-weight: 400;
 }
 
 #contentarea  h1 a:hover:not(.u29611-secondary-text), #contentarea  h4 a:hover:not(.u29611-secondary-text), #contentarea  h1 span a:hover:not(.u29611-secondary-text), #contentarea  h4 span a:hover:not(.u29611-secondary-text), #contentarea  h1 p a:hover:not(.u29611-secondary-text), #contentarea  h4 p a:hover:not(.u29611-secondary-text), .is-wrapper h1 a:hover:not(.u29611-secondary-text, .pxp-block-content, .is-global-btn, .is-global-link, .items-image a, .grid-list-social a, .insta-overlay-bg a, .pxp-block-content a.is-global-btn-outline, .text-button a.is-global-btn-outline, .group_navigation a, a.is-global-btn-medium, a.is-global-btn-small, a.is-global-btn-large, .faqs-grid-container .title a), .is-wrapper h1 span a:hover:not(.u29611-secondary-text), .is-wrapper h1 p a:hover:not(.u29611-secondary-text){
   color: #888;
   color: #9f9f9f;
-  font-family: Josefin Sans, sans-serif;
+  font-family: Montserrat, sans-serif;
 }
 
 #contentarea h1, #contentarea h1 span:not(.u29611-secondary-text), #contentarea  h1 p:not(.u29611-secondary-text), .is-wrapper  h1, .is-wrapper  h1 span:not(.u29611-secondary-text), .is-wrapper  h1 p:not(.u29611-secondary-text) {
@@ -144,13 +144,13 @@ h1, h2, h3, h4, h5, h6 {
 
 #contentarea  h2, #contentarea  h5, .is-wrapper  h2, .is-wrapper  h5  {
   color: #333333;
-  font-family: Josefin Sans, sans-serif;
+  font-family: Montserrat, sans-serif;
   font-weight: 400;
   letter-spacing: 0em;
 }
 
 #contentarea  h2 span, #contentarea  h5 span, #contentarea  h2 p, #contentarea  h5 p, .is-wrapper  h2 span:not(.u29611-secondary-text), .is-wrapper  h5 span:not(.u29611-secondary-text), .is-wrapper  h2 p:not(.u29611-secondary-text), .is-wrapper  h5 p:not(.u29611-secondary-text){
-  font-family: Josefin Sans, sans-serif;
+  font-family: Montserrat, sans-serif;
   font-weight: 400;
 }
 
@@ -165,18 +165,18 @@ h1, h2, h3, h4, h5, h6 {
 
 
 .is-wrapper h2 a:not(.u29611-secondary-text, .pxp-block-content, .is-global-btn, .is-global-link, .items-image a, .grid-list-social a, .insta-overlay-bg a, .pxp-block-content a.is-global-btn-outline, .text-button a.is-global-btn-outline, .group_navigation a, a.is-global-btn-medium, a.is-global-btn-small, a.is-global-btn-large, .faqs-grid-container .title a), .is-wrapper h2 span a, .is-wrapper h2 p a, .is-wrapper h5 a:not(.u29611-secondary-text, .pxp-block-content, .is-global-btn, .is-global-link, .items-image a, .grid-list-social a, .insta-overlay-bg a, .pxp-block-content a.is-global-btn-outline, .text-button a.is-global-btn-outline, .group_navigation a, a.is-global-btn-medium, a.is-global-btn-small, a.is-global-btn-large, .faqs-grid-container .title a), .is-wrapper h5 span a, .is-wrapper h5 p a{
-  font-family: Josefin Sans, sans-serif;
+  font-family: Montserrat, sans-serif;
   font-weight: 400;
 }
 
 
 .is-wrapper h2 a:hover:not(.u29611-secondary-text, .pxp-block-content, .is-global-btn, .is-global-link, .items-image a, .grid-list-social a, .insta-overlay-bg a, .pxp-block-content a.is-global-btn-outline, .text-button a.is-global-btn-outline, .group_navigation a, a.is-global-btn-medium, a.is-global-btn-small, a.is-global-btn-large, .faqs-grid-container .title a), .is-wrapper h5 a:hover:not(.u29611-secondary-text, .pxp-block-content, .is-global-btn, .is-global-link, .items-image a, .grid-list-social a, .insta-overlay-bg a, .pxp-block-content a.is-global-btn-outline, .text-button a.is-global-btn-outline, .group_navigation a, a.is-global-btn-medium, a.is-global-btn-small, a.is-global-btn-large, .faqs-grid-container .title a), .is-wrapper h2 span a:hover:not(.u29611-secondary-text), .is-wrapper h5 span a:hover:not(.u29611-secondary-text), .is-wrapper h2 p a:hover:not(.u29611-secondary-text), .is-wrapper h5 p a:hover:not(.u29611-secondary-text){
-  font-family: Josefin Sans, sans-serif;
+  font-family: Montserrat, sans-serif;
   font-weight: 400;
 }
 
 #contentarea  h6 span, #contentarea  h3 p, #contentarea  h6 p, .is-wrapper  h3, .is-wrapper  h6, .is-wrapper  h3 span:not(.u29611-secondary-text) {
-  font-family: Josefin Sans, sans-serif;
+  font-family: Montserrat, sans-serif;
   font-weight: 400;
 }
 
@@ -190,14 +190,14 @@ h1, h2, h3, h4, h5, h6 {
 
 
 .is-wrapper h3 a:not(.u29611-secondary-text, .pxp-block-content, .is-global-btn, .is-global-link, .items-image a, .grid-list-social a, .insta-overlay-bg a, .pxp-block-content a.is-global-btn-outline, .text-button a.is-global-btn-outline, .group_navigation a, a.is-global-btn-medium, a.is-global-btn-small, a.is-global-btn-large, .faqs-grid-container .title a), .is-wrapper h3 span a, .is-wrapper h3 p a, .is-wrapper h6 a:not(.u29611-secondary-text, .pxp-block-content, .is-global-btn, .is-global-link, .items-image a, .grid-list-social a, .insta-overlay-bg a, .pxp-block-content a.is-global-btn-outline, .text-button a.is-global-btn-outline, .group_navigation a, a.is-global-btn-medium, a.is-global-btn-small, a.is-global-btn-large, .faqs-grid-container .title a), .is-wrapper h6 span a, .is-wrapper h6 p a{
-  font-family: Josefin Sans, sans-serif;
+  font-family: Montserrat, sans-serif;
   font-weight: 400;
 }
 
 
 
 .is-wrapper h3 a:hover:not(.u29611-secondary-text, .pxp-block-content, .is-global-btn, .is-global-link, .items-image a, .grid-list-social a, .insta-overlay-bg a, .pxp-block-content a.is-global-btn-outline, .text-button a.is-global-btn-outline, .group_navigation a, a.is-global-btn-medium, a.is-global-btn-small, a.is-global-btn-large, .faqs-grid-container .title a), .is-wrapper h6 a:hover:not(.u29611-secondary-text, .pxp-block-content, .is-global-btn, .is-global-link, .items-image a, .grid-list-social a, .insta-overlay-bg a, .pxp-block-content a.is-global-btn-outline, .text-button a.is-global-btn-outline, .group_navigation a, a.is-global-btn-medium, a.is-global-btn-small, a.is-global-btn-large, .faqs-grid-container .title a), .is-wrapper h3 span a:hover:not(.u29611-secondary-text), .is-wrapper h6 span a:hover:not(.u29611-secondary-text), .is-wrapper h3 p a:hover:not(.u29611-secondary-text), .is-wrapper h6 p a:hover:not(.u29611-secondary-text){
-  font-family: Josefin Sans, sans-serif;
+  font-family: Montserrat, sans-serif;
   font-weight: 400;
 }
 
@@ -223,7 +223,7 @@ h1, h2, h3, h4, h5, h6 {
   }
 
 .is-wrapper h4:not(.is-wrapper .is-section-imagelist h4 a,  .is-wrapper .is-section-imagelist h4 a:hover, .cover_slider_lightgallery .overwrite-text.coverslider-overwrite-text h4), .is-wrapper h4 span:not(.u29611-secondary-text), .is-wrapper  h4 p:not(.u29611-secondary-text){
-  font-family: Josefin Sans, sans-serif;
+  font-family: Montserrat, sans-serif;
   font-weight: 400;
   color: #474747;
   font-size: 18px;
@@ -235,20 +235,20 @@ h1, h2, h3, h4, h5, h6 {
 
 
 .is-wrapper h4 a:not(.u29611-secondary-text, .pxp-block-content, .is-global-btn, .is-global-link, .items-image a, .grid-list-social a, .insta-overlay-bg a, .pxp-block-content a.is-global-btn-outline, .text-button a.is-global-btn-outline, .group_navigation a, a.is-global-btn-medium, a.is-global-btn-small, a.is-global-btn-large, .faqs-grid-container .title a), .is-wrapper h4 span a, .is-wrapper h4 p a{
-  font-family: Josefin Sans, sans-serif;
+  font-family: Montserrat, sans-serif;
   font-weight: 400;
 }
 
 
 .is-wrapper h4 a:hover:not(.u29611-secondary-text, .pxp-block-content, .is-global-btn, .is-global-link, .items-image a, .grid-list-social a, .insta-overlay-bg a, .pxp-block-content a.is-global-btn-outline, .text-button a.is-global-btn-outline, .group_navigation a, a.is-global-btn-medium, a.is-global-btn-small, a.is-global-btn-large, .faqs-grid-container .title a), .is-wrapper h4 span a:hover:not(.u29611-secondary-text), .is-wrapper h4 p a:hover:not(.u29611-secondary-text){
-  font-family: Josefin Sans, sans-serif;
+  font-family: Montserrat, sans-serif;
   font-weight: 400;
 }
 
 
 .is-wrapper h2, .is-wrapper h5:not(.is-wrapper .is-section-imagelist h2 a, .is-wrapper .is-section-imagelist h5 a,  .is-wrapper .is-section-imagelist h5 a:hover,  .is-wrapper .is-section-imagelist h2 a:hover, .cover_slider_lightgallery .overwrite-text.coverslider-overwrite-text h5), .is-wrapper h2 span:not(.u29611-secondary-text), .is-wrapper h5 span:not(.u29611-secondary-text), .is-wrapper h2 p, .is-wrapper h5 p:not(.u29611-secondary-text), .is-wrapper h2 span:not(.u29611-secondary-text), .is-wrapper h2 p:not(.u29611-secondary-text){
   color: #333333;
-  font-family: Josefin Sans, sans-serif;
+  font-family: Montserrat, sans-serif;
   font-weight: 400;
   line-height: 1.4;
   fill: #333333;
@@ -266,7 +266,7 @@ h1, h2, h3, h4, h5, h6 {
 .is-wrapper h3, .is-wrapper h6:not(.is-wrapper .is-section-imagelist h3 a, .is-wrapper .is-section-imagelist h6 a, .is-wrapper .is-section-imagelist h3 a:hover, .is-wrapper .is-section-imagelist h6 a:hover), .is-wrapper h3 span:not(.u29611-secondary-text), .is-wrapper h6 span:not(.u29611-secondary-text), .is-wrapper h3 p:not(.u29611-secondary-text), .is-wrapper h6 p:not(.u29611-secondary-text)
 {
   color: #515151;
-  font-family: Josefin Sans, sans-serif;
+  font-family: Montserrat, sans-serif;
   font-weight: 400;
   line-height: 1.4;
   fill: #515151;
@@ -293,7 +293,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .is-wrapper h1 span:not(.u29611-secondary-text), .is-wrapper h1 p:not(.u29611-secondary-text) {
   color: #7f7f7f;
-  font-family: Josefin Sans, sans-serif;
+  font-family: Montserrat, sans-serif;
   font-weight: 400;
   line-height: 1.4em;
   letter-spacing: 0em;
@@ -449,7 +449,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .u29611-header-bg-color .user-logo a, .u29611-header-bg-color .object-menu a, .u29611-header-bg-color .broadway-menu a, .u29611-sandwich-menu a, .u29611-header-bg-color .user-logo-custom a, .passkey-user-logo .user-logo a, .header-title-text{
-  font-family: Josefin Sans, sans-serif;
+  font-family: Montserrat, sans-serif;
   color: #6b6b6b;
   font-size: 30px;
   font-weight: 400;
@@ -464,7 +464,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .u29611-header-bg-color .object-menu a, .u29611-header-bg-color .broadway-menu a, .u29611-sandwich-menu a{
-  font-family: Josefin Sans, sans-serif;
+  font-family: Montserrat, sans-serif;
 }
 
 .u29611-header-bg-color .object-menu a, .u29611-header-bg-color .broadway-menu a{
@@ -607,7 +607,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .u29611-footer-bg-color {
   background-color: rgba(255,255,255, 1);
-  font-family: Josefin Sans, sans-serif;
+  font-family: Montserrat, sans-serif;
   color: #9e9e9e;
   fill: #9e9e9e;
   font-size: 15px;
@@ -637,7 +637,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .u29611-footer-logo-size .user-logo-footer a {
   font-size: 30px;
-  font-family: Josefin Sans, sans-serif;
+  font-family: Montserrat, sans-serif;
 }
 
 @media  screen and (min-width: 769px) {
@@ -663,7 +663,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .u29611-primary-menu-bg {
   background: rgba(255,255,255, 0);
-  font-family: Josefin Sans, sans-serif;
+  font-family: Montserrat, sans-serif;
   font-weight: 400;
 }
 
@@ -730,7 +730,7 @@ h1, h2, h3, h4, h5, h6 {
 
 
 .proffing-header-clone.u29611-header-bg-color .user-logo, .proffing-header-clone.u29611-header-bg-color .user-logo-custom{
-  font-family: Josefin Sans, sans-serif;
+  font-family: Montserrat, sans-serif;
   color: #6b6b6b;
   font-weight: 400;
 }
@@ -884,7 +884,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .u29611-secondary-menu-bg {
   background: rgba(255,255,255, 1);
-  font-family: Josefin Sans, sans-serif;
+  font-family: Montserrat, sans-serif;
   font-weight: 400;
 }
 
@@ -1027,7 +1027,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .u29611-secondary-text input[type="submit"].add-to-cart.is-global-btn{
-  font-family: Josefin Sans, sans-serif;
+  font-family: Montserrat, sans-serif;
   color: #858585;
   font-weight: normal;
   letter-spacing: 0em;
@@ -1078,7 +1078,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .u29611-group-view-box{
-  font-family: Josefin Sans, sans-serif;
+  font-family: Montserrat, sans-serif;
   font-size: 30px;
   font-weight: 400;
 }
@@ -1197,11 +1197,11 @@ h1, h2, h3, h4, h5, h6 {
 
 
 .u29611-private-logo a {
-  font-family: Josefin Sans, sans-serif;
+  font-family: Montserrat, sans-serif;
 }
 
 .u29611-primary-text-fontonly {
-  font-family: Josefin Sans, sans-serif;
+  font-family: Montserrat, sans-serif;
 }
 .u29611-secondary-text-fontonly, .lg-toolbar-option-proofing span, .slider-count-wrapper {
   font-family: Nunito Sans, sans-serif;
@@ -1510,7 +1510,7 @@ h1, h2, h3, h4, h5, h6 {
 
 
 .is-global-btn{
-  font-family: Josefin Sans, sans-serif;
+  font-family: Montserrat, sans-serif;
   color: #858585;
   font-weight: normal;
   letter-spacing: 0em;
@@ -1523,7 +1523,7 @@ h1, h2, h3, h4, h5, h6 {
 
 
 .is-global-btn span{
-  font-family: Josefin Sans, sans-serif;
+  font-family: Montserrat, sans-serif;
   padding: 1.5em 2.5em ;
 
 
@@ -1598,7 +1598,7 @@ h1, h2, h3, h4, h5, h6 {
 
 
 is-global-btn-solid, .is-wrapper a.is-global-btn-solid, .header-action-cta .is-global-btn-solid, .header-mobile-menu-cta .is-global-btn-solid, .themes-v2-container-layout-10 .header-actions-social-button .header-actions-item a.is-global-btn-solid{
-  font-family: Josefin Sans, sans-serif;
+  font-family: Montserrat, sans-serif;
   color: #858585;
   fill: #858585;
   font-weight: normal;
@@ -1612,7 +1612,7 @@ is-global-btn-solid, .is-wrapper a.is-global-btn-solid, .header-action-cta .is-g
   }
 
 .is-global-btn-solid:hover, .is-wrapper a.is-global-btn-solid:hover, .header-action-cta .is-global-btn-solid:hover, .header-mobile-menu-cta .is-global-btn-solid:hover{
-  font-family: Josefin Sans, sans-serif;
+  font-family: Montserrat, sans-serif;
   fill: #858585;
   opacity: 0.8;
   color: #858585;
@@ -1622,7 +1622,7 @@ is-global-btn-solid, .is-wrapper a.is-global-btn-solid, .header-action-cta .is-g
 
 .is-global-btn-outline, .is-wrapper a.is-global-btn-outline, .header-action-cta .is-global-btn-outline, .header-mobile-menu-cta .is-global-btn-outline, .themes-v2-container-layout-10 .header-actions-social-button .header-actions-item a.is-global-btn-outline{
 
-  font-family: Josefin Sans, sans-serif;
+  font-family: Montserrat, sans-serif;
   color: #858585;
   fill: #858585;
   font-weight: normal;
@@ -1638,7 +1638,7 @@ is-global-btn-solid, .is-wrapper a.is-global-btn-solid, .header-action-cta .is-g
 }
 
 .is-global-btn-outline:hover, .is-wrapper a.is-global-btn-outline:hover, .header-action-cta .is-global-btn-outline:hover, .header-mobile-menu-cta .is-global-btn-outline:hover{
-  font-family: Josefin Sans, sans-serif;
+  font-family: Montserrat, sans-serif;
   fill: #858585;
   background: #f6f6f6;
   color: #858585;
@@ -1646,7 +1646,7 @@ is-global-btn-solid, .is-wrapper a.is-global-btn-solid, .header-action-cta .is-g
 
 .is-global-btn-link, .is-wrapper a.is-global-btn-link, .header-action-cta .is-global-btn-link, .header-mobile-menu-cta .is-global-btn-link{
 
-  font-family: Josefin Sans, sans-serif;
+  font-family: Montserrat, sans-serif;
   color: #858585;
   fill: #858585;
   font-weight: normal;
@@ -1665,14 +1665,14 @@ is-global-btn-solid, .is-wrapper a.is-global-btn-solid, .header-action-cta .is-g
 
 
 .is-global-btn-link:hover, .is-wrapper a.is-global-btn-link:hover, .header-action-cta .is-global-btn-link:hover, .header-mobile-menu-cta .is-global-btn-link:hover{
-  font-family: Josefin Sans, sans-serif;
+  font-family: Montserrat, sans-serif;
   fill: #858585;
   color: #858585;
   opacity: 1;  
 }
 
 .is-global-btn-solid.is-global-btn-inverted:hover, .is-wrapper a.is-global-btn-solid.is-global-btn-inverted:hover{
-  font-family: Josefin Sans, sans-serif;
+  font-family: Montserrat, sans-serif;
   opacity: 0.8;
   color: #f6f6f6;
   fill: #f6f6f6;
@@ -1680,7 +1680,7 @@ is-global-btn-solid, .is-wrapper a.is-global-btn-solid, .header-action-cta .is-g
 
 
 .is-global-btn-outline.is-global-btn-inverted:hover, .is-wrapper a.is-global-btn-outline.is-global-btn-inverted:hover{
-  font-family: Josefin Sans, sans-serif;
+  font-family: Montserrat, sans-serif;
   background: #f6f6f6;
   border: 1px solid #f6f6f6;
   color: #858585;
@@ -1690,7 +1690,7 @@ is-global-btn-solid, .is-wrapper a.is-global-btn-solid, .header-action-cta .is-g
 
 
 .is-global-btn, .is-wrapper a.is-global-btn{
-  font-family: Josefin Sans, sans-serif;
+  font-family: Montserrat, sans-serif;
   color: #858585;
   fill: #858585;
   font-weight: normal;
@@ -1706,7 +1706,7 @@ is-global-btn-solid, .is-wrapper a.is-global-btn-solid, .header-action-cta .is-g
   }
 
 .is-global-btn:hover, .is-wrapper a.is-global-btn:hover{
-  font-family: Josefin Sans, sans-serif;
+  font-family: Montserrat, sans-serif;
   fill: #858585;
   transition: opacity .2s ease-out;
   transition-delay: .2s;
@@ -1735,7 +1735,7 @@ is-global-btn-solid, .is-wrapper a.is-global-btn-solid, .header-action-cta .is-g
 }
 
 .is-global-btn.is-global-btn-inverted:hover, .is-wrapper a.is-global-btn.is-global-btn-inverted:hover{
-      font-family: Josefin Sans, sans-serif;
+      font-family: Montserrat, sans-serif;
     opacity: 0.8;
     color: #f6f6f6;
     fill: #f6f6f6;
@@ -1902,7 +1902,7 @@ is-global-btn-solid, .is-wrapper a.is-global-btn-solid, .header-action-cta .is-g
 
 
 .u29611-header-nav{
-  font-family: Josefin Sans, sans-serif;
+  font-family: Montserrat, sans-serif;
   font-weight: 400;
 }
 
